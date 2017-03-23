@@ -1,11 +1,12 @@
 # React-redux-form
-This is simple Form application with react and redux. Also used Material-UI and bootstrap (Just for showcase purpose, Not using two framworked in real application)
+This is simple Form application with react and redux. Also used Material-UI and bootstrap (Just for showcase purpose, not using two framworks in real application)
 
 ###Getting Started###
 
 There are two methods for getting started with this repo.
 
 ####Familiar with Git?#####
+
 Checkout this repo, install dependencies, then start the server with the following:
 
 ```
@@ -16,6 +17,7 @@ Checkout this repo, install dependencies, then start the server with the followi
 ```
 
 ####Not Familiar with Git?#####
+
 Click [here](https://github.com/utsavmaniyar/React-redux-form) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
 ```
@@ -23,4 +25,4 @@ Click [here](https://github.com/utsavmaniyar/React-redux-form) then download the
 	> npm start
 ```
 
-Application will run at http://localhost:8080/
+Node server will run at http://localhost:8080/
